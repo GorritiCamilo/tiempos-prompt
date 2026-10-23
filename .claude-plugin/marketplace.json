@@ -1,0 +1,5 @@
+{
+  "name": "tiempos-prompt",
+  "owner": { "name": "GorritiCamilo" },
+  "plugins": [{ "name": "tiempos-prompt", "source": "./" }]
+}

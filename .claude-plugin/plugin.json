@@ -1,0 +1,7 @@
+{
+  "name": "tiempos-prompt",
+  "version": "0.1.0",
+  "description": "Tiempo total por prompt (Claude vs. esper\u00e1ndote) con hist\u00f3rico de la sesi\u00f3n",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
